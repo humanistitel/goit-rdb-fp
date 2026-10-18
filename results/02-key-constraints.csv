@@ -1,0 +1,6 @@
+table_name,constraint_name,definition
+case_stats,case_stats_entity_id_fkey,FOREIGN KEY (entity_id) REFERENCES entities(entity_id)
+case_stats,case_stats_entity_year_key,"UNIQUE (entity_id, year)"
+case_stats,case_stats_pkey,PRIMARY KEY (observation_id)
+entities,entities_entity_code_key,"UNIQUE NULLS NOT DISTINCT (entity, code)"
+entities,entities_pkey,PRIMARY KEY (entity_id)

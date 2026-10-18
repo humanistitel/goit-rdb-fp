@@ -1,0 +1,14 @@
+ordinal_position,column_name,data_type,is_nullable
+1,source_row_id,bigint,NO
+2,entity,text,NO
+3,code,text,YES
+4,year,integer,NO
+5,number_yaws,numeric,YES
+6,polio_cases,numeric,YES
+7,cases_guinea_worm,numeric,YES
+8,number_rabies,numeric,YES
+9,number_malaria,numeric,YES
+10,number_hiv,numeric,YES
+11,number_tuberculosis,numeric,YES
+12,number_smallpox,numeric,YES
+13,number_cholera_cases,numeric,YES

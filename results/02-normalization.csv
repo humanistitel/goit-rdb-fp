@@ -1,0 +1,2 @@
+source_rows,entity_rows,normalized_rows,entities_without_code,source_rows_without_code,normalized_rows_without_code,source_only_rows,reconstructed_only_rows,rabies_numeric_rows,rabies_missing_rows,first_year,last_year
+10521,245,10521,34,1128,1128,0,0,6780,3741,1920,2023
