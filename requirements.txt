@@ -1,0 +1,5 @@
+# Python 3.9–3.12 locally; Google Colab installs its runtime dependencies automatically.
+pgserver==0.1.4
+psycopg2-binary==2.9.12
+pandas==2.3.3
+matplotlib==3.9.4
